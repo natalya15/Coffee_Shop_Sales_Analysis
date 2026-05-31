@@ -4,7 +4,7 @@ End-to-end data analysis project for a coffee shop sales dataset, built as part 
 
 The project combines Python-based data cleaning and exploratory analysis with a Tableau workbook for the main calculations, visual storytelling, and business scenarios. The final deliverable is a polished dashboard and a set of practical recommendations for improving revenue and store performance.
 
-<img src="ChatGPT Image May 30, 2026, 08_56_45 PM-1.png" alt="alt text" style="max-width:600px; width:100%;" />
+<img src="ChatGPT Photo.png" alt="alt text" style="max-width:600px; width:100%;" />
 
 ## Repository Contents
 
